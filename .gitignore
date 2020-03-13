@@ -38,7 +38,7 @@ Thumbs.db
 dist/**/*
 
 # Compiled folder
-app/js/*
+app/**/*.js
 
 # ignore yarn.lock
 yarn.lock
